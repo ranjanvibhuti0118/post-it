@@ -44,7 +44,7 @@
 		<item key="Objects.equals &amp; Objects.hash" value="true"/>
 	</section>
 	<section name="DialogBounds_GenerateToStringDialog">
-		<item key="DIALOG_X_ORIGIN" value="950"/>
+		<item key="DIALOG_X_ORIGIN" value="610"/>
 		<item key="DIALOG_Y_ORIGIN" value="115"/>
 		<item key="DIALOG_WIDTH" value="678"/>
 		<item key="DIALOG_HEIGHT" value="877"/>
@@ -55,7 +55,7 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="950"/>
+		<item key="DIALOG_X_ORIGIN" value="610"/>
 		<item key="DIALOG_Y_ORIGIN" value="107"/>
 		<item key="DIALOG_WIDTH" value="678"/>
 		<item key="DIALOG_HEIGHT" value="889"/>
@@ -71,7 +71,7 @@
 		<item key="OmitCallToSuper" value="false"/>
 	</section>
 	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="950"/>
+		<item key="DIALOG_X_ORIGIN" value="610"/>
 		<item key="DIALOG_Y_ORIGIN" value="120"/>
 		<item key="DIALOG_WIDTH" value="678"/>
 		<item key="DIALOG_HEIGHT" value="869"/>
@@ -96,5 +96,23 @@
 	</section>
 	<section name="NewPackageWizardPage">
 		<item key="create_package_info_java" value="false"/>
+	</section>
+	<section name="ProblemSeveritiesConfigurationBlock">
+		<item key="expanded0" value="false"/>
+		<item key="expanded1" value="false"/>
+		<item key="expanded2" value="false"/>
+		<item key="expanded3" value="false"/>
+		<item key="expanded4" value="false"/>
+		<item key="expanded5" value="true"/>
+		<item key="expanded6" value="false"/>
+		<item key="expanded7" value="false"/>
+		<item key="expanded8" value="false"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="SelfEncapsulateFieldWizard">
+		<item key="GenerateJavadoc" value="false"/>
 	</section>
 </section>
