@@ -1,0 +1,11 @@
+package com.funPosts.app.postit.user.exception;
+
+import java.time.LocalDate;
+
+public class ErrorDetails {
+
+	private LocalDate timestamp;
+	private String message;
+	private String details;
+	
+}

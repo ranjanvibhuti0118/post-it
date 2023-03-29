@@ -1,0 +1,9 @@
+package com.funPosts.app.postit.user;
+
+public class UserNotFoundException extends RuntimeException {
+
+	public UserNotFoundException(String string) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

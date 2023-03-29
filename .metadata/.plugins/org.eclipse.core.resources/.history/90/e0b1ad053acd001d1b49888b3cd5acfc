@@ -1,0 +1,17 @@
+package com.funPosts.app.postit.user;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserResource {
+	
+	public List<User> retrieveAllUsers(){
+		
+		
+		return null;
+	}
+	
+
+}

@@ -1,0 +1,8 @@
+package com.funPosts.app.postit.versioning;
+
+@Data
+public class Name {
+
+	private String firstName;
+	private String lastName;
+}

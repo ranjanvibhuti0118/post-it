@@ -1,0 +1,5 @@
+package com.funPosts.app.postit.user.exception;
+
+public class CustomizedResponseEntityExceptionHandler {
+
+}

@@ -1,0 +1,13 @@
+package com.funPosts.app.postit.versioning;
+
+public class Person {
+
+	
+	private String name;
+//	private String lastName;
+	
+	public Person(String firstName) {
+		// TODO Auto-generated constructor stub
+	}
+
+}
